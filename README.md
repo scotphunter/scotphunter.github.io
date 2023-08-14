@@ -1,1 +1,1 @@
-# scotphunter.github.io
+theme: minima
