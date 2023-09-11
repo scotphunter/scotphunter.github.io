@@ -1,0 +1,34 @@
+---
+title: "Scot Hunter"
+about:
+  template: trestles
+  id: hero-heading
+  image: "photography/forweb.jpeg"
+  image-shape: rounded
+  links:
+      - icon: person
+        href: https://www.stir.ac.uk/people/1462576
+      - icon: twitter
+        href: https://twitter.com/_hunterscot?lang=en-GB
+      - icon: linkedin
+        href: https://www.linkedin.com/in/scot-hunter-51a43119b/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:s.p.hunter@stir.ac.uk" 
+---
+
+:::{#hero-heading}
+
+Scot Hunter is currently an [ESRC](https://www.ukri.org/councils/esrc/) funded PhD student in his third year at the [University of Stirling](https://www.stir.ac.uk/). He is also an experienced teaching assistant and accomplished Research Fellow whose research portfolio spans both quantitative and qualitative methodologies. His interests include intersectional quantitative data analysis, migration, refugee integration policy, sexuality, and social stratification. 
+
+#### Education 
+
+Sept. 2019 - present |  **PhD in Sociology** | Univ. Stirling.
+
+Sept. 2018 - Sept 2019 | **MSc in Social Statistics and Social Research** | Univ. Stirling. 
+
+Sept. 2014 - May 2018 | **BA (Hons) in Criminology and Sociology** | Univ. Stirling. 
+
+
+:::
+ 

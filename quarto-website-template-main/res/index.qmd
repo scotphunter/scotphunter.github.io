@@ -1,0 +1,37 @@
+---
+title: "Resources"
+---
+
+This page includes a range of video resources created by myself (and colleagues) for various training and teaching courses. 
+
+
+## Downloading data from the UK data service to answer a research question using SPSS | March 2023 | Scot Hunter 
+
+This instructional video from Scot was made to help students find and download data from the UK data service, load it into SPSS and get them started with some analysis. 
+It was created for the third year Undergraduate module: Research Process II within the Sociology, Social Policy and Criminology (SSPC) division of the Faculty of Social Sciences at the University of Stirling. 
+
+<iframe src="https://stirling.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=73908950-9fab-4173-9464-afb801362e74&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe> 
+
+
+
+
+
+## Resources from "Advanced Data Visualisation in Stata" student led training session | August 2023 | Scot Hunter and Kate O'Hara. 
+
+### Setting schemes and making custom colour palettes in Stata 
+
+This video done by Scot guides you through some of the custom graphing settings for Stata. This includes setting schemes and creating your own custom colour palette. Created for the "Advanced Data Visualisation in Stata" course for Postgraduate Students which Kate O'Hara and I delivered on behalf of the SGSSS in August 2023. 
+
+<iframe src="https://stirling.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=adcef883-9cca-4f15-ac2b-b05300a044c0&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+### Workflow tips for data visualistion in Stata 
+
+This short video done by Scot's colleague [Kate O'Hara](https://sites.google.com/view/kate-ohara-research/mlm) demonstrates a few workflow tips to make life easier when building more complex data visualisations in Stata. Also created for the "Advanced Data Visualisation in Stata" course for Postgraduate Students which Kate O'Hara and I delivered on behalf of the SGSSS in August 2023. 
+
+<iframe src="https://stirling.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=8c483de3-3f5a-4c19-860c-b04901320c48&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+## Lecture on New Scots Refugee Policy 
+
+This lecture was delivered for the undergraduate module race, ethnicity and migration within the Sociology, Social Policy and Criminology (SSPC) division of the Faculty of Social Sciences at the University of Stirling. This talk is based on Scot's experience doing an internship at the Scottish Government working on the New Scots project. 
+
+<iframe src="https://stirling.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f956ee69-1483-4990-bb7b-b0730093c4e5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>

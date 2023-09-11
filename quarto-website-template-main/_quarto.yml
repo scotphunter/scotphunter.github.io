@@ -1,0 +1,75 @@
+
+# website settings
+website: 
+  title: "Scot Hunter"                                # Your name
+  description: "PhD candidate who studies the impact of contemporary migration patterns on the Muslim community in the UK"   # A brief slogan (optional)
+  image: photography/forweb.jpeg
+  
+  favicon: person
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: person
+    
+    # your sub-pages
+    left:
+      - text: "PhD Research"
+        href: rprof/index.qmd
+      - text: "Migration research"
+        href: other/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Publications"
+        href: pubs/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      - text: "Resources"
+        href: res/index.qmd
+     
+    
+    # your social media handles
+    right:
+      - icon: person
+        href: https://www.stir.ac.uk/people/1462576
+      - icon: twitter
+        href: https://twitter.com/_hunterscot?lang=en-GB
+      - icon: linkedin
+        href: https://www.linkedin.com/in/scot-hunter-51a43119b/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:s.p.hunter@stir.ac.uk" 
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
