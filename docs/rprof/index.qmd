@@ -1,0 +1,34 @@
+(a) Bivariate share of Muslim and post-04 Migrants in LSOA neighbourhoods (UK)
+ 
+![](big.jpg)
+
+![](g1_london.jpg)
+
+![](g2_wmid.jpg) 
+![](g3_york.jpg) 
+
+![](g4_nwest.jpg) 
+
+Source: 2011 Census data (Office of National Statistics). These are a collection of bivariate heatmaps used in the PhD analysis. Each bivariate map displays the share of Muslims and post-O4 EU migrants (mainly from Poland) in  neighbourhoods (Lower Super Output Areas) across the UK. 
+The legend displays a range of colors, each corresponding to a specific value or percentile. These colours represent the intensity of the data being visualised (in this case, the share of Muslims and EU migrants). The percentages displayed in the legend represent the percent of neighbourhoods (Lower Super Output Areas, or LSOAs) falling within specific ranges. For example: In figure (a), the legend shows that 20.2% of neighbourhoods have a share of Muslims between 2.7% and 95.8%, and a share of post-2004 EU migrants between 2.6% and 39.5%. The legend helps interpret the heatmap by associating colors with these percentile ranges.The legend also provides aggregated neighbourhood percentages for each Government Office Region (a) and each Local Authority District (b - e). This allows you to compare the overall distribution of Muslims and EU migrants across different administrative regions.
+ 
+
+## Doctoral Research.
+
+![](graph.jpg) 
+Source: UKHLS pooled data from waves 2-12 (2009 - 2022). Religious and Muslim group variations in mean satisfaction with life overall and mean contentment with current financial situation. Weighted applied. 
+
+
+Scot's doctoral research focuses on examining the various ways in which patterns of contemporary migration (namely, white Christian newcomers migrating from Eastern Europe) may be impacting upon the lives of the Muslim community in the UK. Scot's thesis involves the statistical analysis of the secondary longitudinal dataset  [Understanding Society](https://www.understandingsociety.ac.uk/) and linked macro-data on local/occupational variations in contemporary migration from various [ONS](https://www.ons.gov.uk/) data sources. Scot's focus lies in adopting an intersectional approach to explore Muslim outcomes. This focus stems from an interest to understand how the diverse social identities held by members of the Muslim community overlap in determining their position within the broader social structure. With this aim, Scot has explored innovative methodologies in his thesis, such as using intersectional multilevel models to look at how individuals are nested within their intersectional identity and how this may determine their access to resources and shape their experience of social inequalities. He presented on using this approach at the [Social Stratification Seminar](https://www.camsis.stir.ac.uk/stratif/) in 2022.  He is supervised by [Prof. Paul Lambert](https://www.stir.ac.uk/people/255764) and [Dr Marina Shapira](https://www.stir.ac.uk/people/255806).
+
+
+
+**Visiting Scholar | Canada Excellence Research Chair (CERC) in Migration and Integration | Toronto Metropolitan University.**
+
+**April 2023 - March 2023**
+
+As a part of his doctoral research, Scot was awarded the ESRC funded [Overseas Institutional Visit](https://www.sgsss.ac.uk/studentships/esrc-training-funds/) fund (£3000) to undertake research related to his PhD at an international institution. During his placement at [Toronto Metropolitan University](https://www.torontomu.ca/), Scot, [Dr Akbar](https://www.torontomu.ca/cerc-migration/People/researchers/marshia-akbar/), and [Stein Monteiro](https://www.torontomu.ca/cerc-migration/People/researchers/stein-monteiro/) worked on a comparative analysis of Muslim women labour market outcomes in Canada and the UK. The paper produced from this research is currently being written. Scot also presented findings from his own doctoral research to the CERC team.
+
+
+____________________________________
+
